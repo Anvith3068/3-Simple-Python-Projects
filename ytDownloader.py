@@ -1,4 +1,4 @@
-from pytube import YouTube
+from pytubefix import YouTube
 
 try:
     # Ask the user to input the YouTube URL
